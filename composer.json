@@ -1,0 +1,11 @@
+{
+    "name": "charlesanesu/test1",
+    "autoload": {
+        "psr-4": {
+            "Charlesanesu\\Test1\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
